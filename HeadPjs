@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Zeerunsyou/HeadCashFarm/refs/heads/main/HeadPjs
+loadstring(game:HttpGet("http://scripts.projectauto.xyz/AutoArrestV3"))()
